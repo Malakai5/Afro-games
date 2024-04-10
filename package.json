@@ -1,0 +1,17 @@
+{
+  "name": "afro-games",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Malakai5/Afro-games.git"
+  },
+  "private": true,
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
